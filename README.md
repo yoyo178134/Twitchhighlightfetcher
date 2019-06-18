@@ -3,10 +3,7 @@ Twitch-highlight-fetcher
 JAVA program
 <br /> 
 <br /> 
-Requirement:<br /> 
-ffmqeg 
-<br /> 
-java 
+Requirement: ffmqeg java 
 <br /> 
 <br /> 
 Easy to fetch twitch highlight by VOD chat room.
