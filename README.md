@@ -3,7 +3,7 @@ Twitch-highlight-fetcher
 JAVA program
 <br /> 
 <br /> 
-Requirement: ffmpeg java 
+Requirement: ffmpeg (needs to set path) java 
 <br /> 
 <br /> 
 Easy to fetch twitch highlight by VOD chat room.
